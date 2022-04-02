@@ -1,0 +1,5 @@
+
+interface IControllers {
+
+    initializeController(): void;
+}
